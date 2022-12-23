@@ -1,3 +1,7 @@
+# infra.run releasing helpers
+/registry-*
+/dist
+
 terraform-provider-dns
 
 *.dll
